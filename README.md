@@ -10,5 +10,11 @@ using R to learn ML
 
 (3)probabilities : 說明機器學習原理,使用一連串條件判斷 ex. bayes  
 
-(4)
+(4)confusion matrix : 衡量模型表現  
+ex. FP,TP,FN,TN 需考量預測的目標來說,何項指標較重要並以該指標來優化  
+ex. EV(Expect Value) 計算各情境的可得的價值總和,比如衡量促銷是否划算  
+ex. MAPE,RMSE  
+
+
+
 
