@@ -1,4 +1,4 @@
-setwd("C:/Users/USER/Desktop/練習_lesson/10")
+setwd("C:/Users/USER/Desktop/NLP")
 doc <- "Today is a wonderful day.  What do you think?"
 #使用gsub取代特定詞彙,做字串清理
 gsub("T", "A", doc)
