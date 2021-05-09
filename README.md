@@ -26,6 +26,7 @@ ex.strength P(A,B)
 但這樣也會排除高價但低頻的購買商品,應同時考慮頻率&價值  
 ex. MIS Apriori (不同種類商品有不同頻率門檻值)
 
+(7)NLP : 去除stopwords,符號 並建立字典做斷詞,詞頻分析(tfidf)
 
 
 
